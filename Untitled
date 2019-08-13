@@ -1,0 +1,5 @@
+add.php
+SELECT * FROM Movie WHERE title = '$title' and startDate='$start
+INSERT INTO Movie (title, runningTime, rating, plotSynopsis, director, productionCompany, startDate, endDate ,poster) VALUES ('$title','$running_time','$rating','$plot','$director','$company','$start','$end','$poster');
+
+addmovies.php
